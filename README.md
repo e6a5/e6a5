@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+:ninja: I'm Hiep!
+
+:writing_hand: I'm currently a Golang developer. Previously, I was a React Native developer.
+
+:globe_with_meridians:	 You can find me on [Twitter](https://twitter.com/hieptran_)
