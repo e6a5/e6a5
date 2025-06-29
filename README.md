@@ -1,22 +1,13 @@
 ### Hi there 👋
 
-<!--
-**tranhiepqna/tranhiepqna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Hiep.
 
-Here are some ideas to get you started:
+I care about calm minds, simple tools, and meaningful work. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build things to help myself and others return to what matters.
 
-:ninja: I'm Hiep!
+You can find my thoughts and writings at [hieptran.me](https://hieptran.me), and little tools I make here on GitHub.
 
-:writing_hand: I'm currently a Golang developer. Previously, I was a React Native developer.
+Thank you for stopping by.
 
-:globe_with_meridians:	 You can find me on [Twitter](https://twitter.com/hieptran_)
+Let’s take a breath.
